@@ -1,0 +1,16 @@
+Installation:
+    i) pip install flask
+    ii) pip install openai
+    iii) pip install python-dotenv
+    iv) pip install fastapi
+    v) pip install uvicorn
+    vi) python -m venv venv
+    vii) venv\Scripts\activate
+    viii) 
+
+Libraries and Packges:
+    i) flask 
+    ii) openai 
+    iii) python-dotenv
+    iv) request 
+    v) jsonify 

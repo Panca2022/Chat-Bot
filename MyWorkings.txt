@@ -1,0 +1,30 @@
+Step 1: Created the Project Structure by assigning the files and the corresponding 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Used Git Commands 
+i) git init => This used to initialize the git. The init is the keyword used to start git 
+ii) git status => This used to chack the status of out git 
+iii) git add . => This command stages all changes (new, modified, deleted files) to be committed.
+iv) git rm --cached .env => The rm Keyword is used to remove some particualar file. --cached specifies the cache of the specified <file_name>
+v) git commit -m "message" => This command tells us that the terminal passing a command to git, while commiting the changes with the "message". The -m is used to pass the message
+vi) git config --global user.name "Your Name"
+vii) git config --global user.email "you@example.com"
+viii) git config --global --list
+ix) git commit -m "Ensure venv is excluded from version control"
+x) git remote add origin https://github.com/UserName/Repository.git
+xi) git push -u origin master
